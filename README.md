@@ -19,10 +19,11 @@ Proyek ini menghasilkan:
 - Insight mengenai keluhan utama pengguna dan aspek yang mereka sukai dari aplikasi.
 
 ## **Struktur Kategori**
-├── data/                # Folder untuk dataset ulasan Google Playstore
-├── notebooks/           # Jupyter notebooks untuk analisis
-├── src/                 # Source code untuk preprocessing dan scrapping data
-└── README.md            # Penjelasan proyek ini
+
+- [data/](./data)               - Folder untuk dataset ulasan Google Playstore
+- [notebooks/](./notebooks)     - Jupyter notebooks untuk analisis
+- [src/](./src)                 - Source code untuk preprocessing dan scrapping data
+- [README.md](./README.md)      - Penjelasan proyek ini
 
 ## Teknologi yang Digunakan
 - Python
