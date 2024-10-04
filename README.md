@@ -20,9 +20,9 @@ Proyek ini menghasilkan:
 
 ## **Struktur Kategori**
 
-- [data/](./data)               - Folder untuk dataset ulasan Google Playstore
-- [notebooks/](./notebooks)     - Jupyter notebooks untuk analisis
-- [src/](./src)                 - Source code untuk preprocessing dan scrapping data
+- [data](./data)               - Folder untuk dataset ulasan Google Playstore
+- [notebooks](./notebooks)     - Jupyter notebooks untuk analisis
+- [src](./src)                 - Source code untuk preprocessing dan scrapping data
 - [README.md](./README.md)      - Penjelasan proyek ini
 
 ## Teknologi yang Digunakan
